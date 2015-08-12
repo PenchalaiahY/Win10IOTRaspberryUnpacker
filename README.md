@@ -1,8 +1,9 @@
 Windows 10 IOT Raspberry Pi unpacker
+====================================
 
 Usecase: Might want to flash Win10 but don't want to install Windows.
 
-Also: *THIS IS UNTESTED RIGHT NOW, I DON'T HAVE AN SD CARD AVAILABLE*
+Also: **THIS IS UNTESTED RIGHT NOW, I DON'T HAVE AN SD CARD AVAILABLE**
 However, the result looks promising:
 
     file w10.img 
@@ -12,8 +13,9 @@ However, the result looks promising:
 Simple bash script to unpack Microsoft's Windows 10 Image for the Raspberry Pi
 
 You need:
-    - 7 zip.
-    - Python 3 (or two, if you change the script's call from .py3 to .py
+
+- 7 zip.
+- Python 3 (or two, if you change the script's call from .py3 to .py
 
 
 Usage
